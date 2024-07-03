@@ -1,0 +1,43 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Iphone 12 Pro max",
+            "price": 12000000,
+            "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6443/6443061_sd.jpg",
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "productName": "Iphone 13 Pro max",
+            "price": 13000000,
+            "image": "https://www.dslr-zone.com/wp-content/uploads/2021/10/6-1-768x768.jpeg",
+            "stock": 5
+        },
+        {
+            "id": 3,
+            "productName": "Iphone 14 Pro max",
+            "price": 18000000,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.jQVyc1gg0eHY2JCLFX1gfQHaJ3&pid=Api&P=0&h=180",
+            "stock": 5
+        },{
+            "id": 4,
+            "productName": "Iphone 13 Pro max",
+            "price": 13000000,
+            "image": "https://www.dslr-zone.com/wp-content/uploads/2021/10/6-1-768x768.jpeg",
+            "stock": 5
+        },{
+            "id": 5,
+            "productName": "Iphone 13 Pro max",
+            "price": 13000000,
+            "image": "https://www.dslr-zone.com/wp-content/uploads/2021/10/6-1-768x768.jpeg",
+            "stock": 5
+        },{
+            "id": 6,
+            "productName": "Iphone 13 Pro max",
+            "price": 13000000,
+            "image": "https://www.dslr-zone.com/wp-content/uploads/2021/10/6-1-768x768.jpeg",
+            "stock": 5
+        }
+    ]
+}
